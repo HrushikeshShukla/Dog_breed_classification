@@ -7,3 +7,6 @@ Then I applied Image Augmentation which included horizontal and vertical flips, 
 I used pretrained ResNet50 followed 2 fully layers for classification.
 The model is later trained on the entire reduced dataset for better performance. The saved model can be downloaded from here: https://drive.google.com/drive/folders/15LmYdef0gJ1bzZV7j9tFuHWbLWOSfGsP?usp=sharing
 I also further tested the model on 2 images namely img1 and img2 and the classification was accurate.
+In case there is any issue displaying the ipynb file, you can copy the github file link here: https://nbviewer.jupyter.org/
+You can see the file clearly here. 
+I hope you like my work.
